@@ -1,21 +1,21 @@
 # 🌟 Glint
 
-Glint is a **modern, Apple-inspired news app** built with **React Native (Expo)**.  
-It brings together curated stories from the **New York Times** and **The Guardian** APIs, offering a sleek and distraction-free reading experience.
+**Glint** is a sleek, Apple-inspired news app built with **React Native (Expo)**.  
+It aggregates top stories from the **New York Times** and **The Guardian** APIs, delivering a clean, distraction-free reading experience anywhere, anytime.  
 
 ---
 
 ## ✨ Features
-- 📰 **Curated Feeds** – Browse top stories from trusted sources.  
-- 🔎 **Explore by Topics** – Find articles by categories or interests.  
-- 📌 **Save for Later** – Bookmark and revisit your favorite reads.  
-- 🌙 **Light & Dark Mode** – Comfortable reading anytime.  
-- 🎨 **Apple-like UI** – Minimalist design with smooth animations.  
+- 📰 **Top Stories** – Read curated news from world-class publishers  
+- 🔎 **Topic Explorer** – Discover articles by category and interest  
+- 📌 **Bookmarks** – Save favorites to revisit later  
+- 🌙 **Dark / Light Themes** – Comfortable reading day or night  
+- 🎨 **Refined UI** – Minimal design with smooth, native-feeling animations  
 
 ---
 
 ## 🛠 Tech Stack
-- [React Native (Expo)](https://expo.dev/)  
+- [Expo (React Native)](https://expo.dev/)  
 - [TypeScript](https://www.typescriptlang.org/)  
 - [React Navigation](https://reactnavigation.org/)  
 - [NativeWind (Tailwind for RN)](https://www.nativewind.dev/)  
@@ -26,7 +26,11 @@ It brings together curated stories from the **New York Times** and **The Guardia
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the repo
+Clone the repo and install dependencies:
+
 ```bash
 git clone https://github.com/KennedyGakuru/Glint.git
 cd Glint
+npm install
+# or
+yarn install
